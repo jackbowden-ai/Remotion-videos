@@ -1,0 +1,191 @@
+{
+  "fps": 30,
+  "durationInFrames": 1560,
+  "durationSec": 52.0,
+  "note": "Scene animations should be retimed proportionally: oldFrame within scene i maps to newStart_i + (oldFrame-oldStart_i)*newLen_i/oldLen_i. SFX frames below are already mapped.",
+  "oldSceneCuts": [
+    0,
+    105,
+    280,
+    455,
+    640,
+    795,
+    900
+  ],
+  "newSceneCuts": [
+    0,
+    198,
+    519,
+    807,
+    1113,
+    1395,
+    1560
+  ],
+  "scenes": [
+    {
+      "scene": "Title",
+      "fromFrame": 0,
+      "toFrame": 198,
+      "narration": "narration/line1.wav",
+      "narrationStartFrame": 9,
+      "narrationEndFrame": 182,
+      "text": "Operational versus analytical systems. Two very different jobs for data."
+    },
+    {
+      "scene": "OLTP",
+      "fromFrame": 198,
+      "toFrame": 519,
+      "narration": "narration/line2.wav",
+      "narrationStartFrame": 207,
+      "narrationEndFrame": 504,
+      "text": "Operational systems, or OLTP, power your app: fast reads and writes of a few rows, always holding the latest state."
+    },
+    {
+      "scene": "OLAP",
+      "fromFrame": 519,
+      "toFrame": 807,
+      "narration": "narration/line3.wav",
+      "narrationStartFrame": 528,
+      "narrationEndFrame": 791,
+      "text": "Analytical systems, or OLAP, help analysts answer questions, scanning millions of rows and keeping history over time."
+    },
+    {
+      "scene": "ETL",
+      "fromFrame": 807,
+      "toFrame": 1113,
+      "narration": "narration/line4.wav",
+      "narrationStartFrame": 816,
+      "narrationEndFrame": 1098,
+      "text": "ETL moves the data across: extract, transform, and load it into a warehouse, so analytics never slows the live app."
+    },
+    {
+      "scene": "Comparison",
+      "fromFrame": 1113,
+      "toFrame": 1395,
+      "narration": "narration/line5.wav",
+      "narrationStartFrame": 1122,
+      "narrationEndFrame": 1380,
+      "text": "In short: operational means small, fast and current. Analytical means big scans and long history."
+    },
+    {
+      "scene": "Takeaway",
+      "fromFrame": 1395,
+      "toFrame": 1560,
+      "narration": "narration/line6.wav",
+      "narrationStartFrame": 1404,
+      "narrationEndFrame": 1526,
+      "text": "Keep transactions fast. Run analytics somewhere else."
+    }
+  ],
+  "narrationFull": "narration/narration-full.wav (52s, already placed at the start frames above; use this OR the per-line files)",
+  "sfx": [
+    {
+      "file": "sfx/whoosh.wav",
+      "frames": [
+        195,
+        516,
+        804,
+        1110,
+        1392
+      ],
+      "volume": 0.5,
+      "cue": "scene transitions (starts 3 frames before each cut)"
+    },
+    {
+      "file": "sfx/pop.wav",
+      "frames": [
+        11,
+        19
+      ],
+      "volume": 0.5,
+      "cue": "title icons appear"
+    },
+    {
+      "file": "sfx/beep.wav",
+      "frames": [
+        235,
+        260,
+        286,
+        312,
+        337,
+        363,
+        389,
+        414,
+        440,
+        466,
+        491,
+        517
+      ],
+      "volume": 0.25,
+      "cue": "OLTP request dots reach the database"
+    },
+    {
+      "file": "sfx/scan.wav",
+      "frames": [
+        555
+      ],
+      "volume": 0.35,
+      "cue": "OLAP table scan (stretch/loop to cover old 302-390 span)"
+    },
+    {
+      "file": "sfx/blip.wav",
+      "frames": [
+        618,
+        637,
+        657
+      ],
+      "volume": 0.35,
+      "cue": "OLAP bars grow"
+    },
+    {
+      "file": "sfx/pop.wav",
+      "frames": [
+        840,
+        857,
+        873
+      ],
+      "volume": 0.45,
+      "cue": "ETL Extract/Transform/Load labels appear"
+    },
+    {
+      "file": "sfx/beep.wav",
+      "frames": [
+        881,
+        901,
+        921,
+        941,
+        961,
+        981,
+        1001,
+        1020,
+        1040,
+        1060,
+        1080,
+        1100
+      ],
+      "volume": 0.2,
+      "cue": "ETL data packets along pipeline"
+    },
+    {
+      "file": "sfx/tick.wav",
+      "frames": [
+        1135,
+        1164,
+        1193
+      ],
+      "volume": 0.4,
+      "cue": "comparison rows slide in"
+    },
+    {
+      "file": "sfx/chime.wav",
+      "frames": [
+        1395
+      ],
+      "volume": 0.5,
+      "cue": "takeaway"
+    }
+  ],
+  "music": {
+    "status": "not generated yet: restricted ElevenLabs connector has no music; add later at ~0.15 volume under voice, fade out over last 30 frames"
+  }
+}

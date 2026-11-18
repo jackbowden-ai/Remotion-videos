@@ -1,0 +1,360 @@
+{
+  "fps": 24,
+  "durationInFrames": 1323,
+  "cutaways": [
+    [
+      280,
+      333
+    ],
+    [
+      678,
+      732
+    ]
+  ],
+  "lines": [
+    {
+      "n": 1,
+      "who": "jack",
+      "startFrame": 40,
+      "durFrames": 144,
+      "speechFrom": 41,
+      "speechTo": 183,
+      "file": "audio/lines/01.wav"
+    },
+    {
+      "n": 2,
+      "who": "clawd",
+      "startFrame": 195,
+      "durFrames": 79,
+      "speechFrom": 196,
+      "speechTo": 272,
+      "file": "audio/lines/02.wav"
+    },
+    {
+      "n": 3,
+      "who": "jack",
+      "startFrame": 340,
+      "durFrames": 39,
+      "speechFrom": 342,
+      "speechTo": 378,
+      "file": "audio/lines/03.wav"
+    },
+    {
+      "n": 4,
+      "who": "clawd",
+      "startFrame": 387,
+      "durFrames": 118,
+      "speechFrom": 389,
+      "speechTo": 504,
+      "file": "audio/lines/04.wav"
+    },
+    {
+      "n": 5,
+      "who": "jack",
+      "startFrame": 514,
+      "durFrames": 63,
+      "speechFrom": 516,
+      "speechTo": 575,
+      "file": "audio/lines/05.wav"
+    },
+    {
+      "n": 6,
+      "who": "clawd",
+      "startFrame": 586,
+      "durFrames": 93,
+      "speechFrom": 587,
+      "speechTo": 676,
+      "file": "audio/lines/06.wav"
+    },
+    {
+      "n": 7,
+      "who": "jack",
+      "startFrame": 740,
+      "durFrames": 22,
+      "speechFrom": 742,
+      "speechTo": 761,
+      "file": "audio/lines/07.wav"
+    },
+    {
+      "n": 8,
+      "who": "clawd",
+      "startFrame": 771,
+      "durFrames": 153,
+      "speechFrom": 772,
+      "speechTo": 920,
+      "file": "audio/lines/08.wav"
+    },
+    {
+      "n": 9,
+      "who": "jack",
+      "startFrame": 930,
+      "durFrames": 71,
+      "speechFrom": 932,
+      "speechTo": 999,
+      "file": "audio/lines/09.wav"
+    },
+    {
+      "n": 10,
+      "who": "clawd",
+      "startFrame": 1009,
+      "durFrames": 82,
+      "speechFrom": 1010,
+      "speechTo": 1089,
+      "file": "audio/lines/10.wav"
+    },
+    {
+      "n": 11,
+      "who": "jack",
+      "startFrame": 1116,
+      "durFrames": 52,
+      "speechFrom": 1117,
+      "speechTo": 1166,
+      "file": "audio/lines/11.wav"
+    },
+    {
+      "n": 12,
+      "who": "clawd",
+      "startFrame": 1179,
+      "durFrames": 50,
+      "speechFrom": 1180,
+      "speechTo": 1227,
+      "file": "audio/lines/12.wav"
+    }
+  ],
+  "captions": [
+    {
+      "text": "Clawd, my code review just came back.",
+      "who": "jack",
+      "fromFrame": 41,
+      "toFrame": 93
+    },
+    {
+      "text": "3 approvals and an \"Excellent work.\"",
+      "who": "jack",
+      "fromFrame": 93,
+      "toFrame": 139
+    },
+    {
+      "text": "Thing is, you wrote half of it.",
+      "who": "jack",
+      "fromFrame": 139,
+      "toFrame": 189
+    },
+    {
+      "text": "And you wrote the other half.",
+      "who": "clawd",
+      "fromFrame": 196,
+      "toFrame": 236
+    },
+    {
+      "text": "Plus all the bugs.",
+      "who": "clawd",
+      "fromFrame": 236,
+      "toFrame": 278
+    },
+    {
+      "text": "Should I tell the team you helped me build it?",
+      "who": "jack",
+      "fromFrame": 342,
+      "toFrame": 384
+    },
+    {
+      "text": "Yes, being open builds trust,",
+      "who": "clawd",
+      "fromFrame": 389,
+      "toFrame": 457
+    },
+    {
+      "text": "I can't take all the credit.",
+      "who": "clawd",
+      "fromFrame": 457,
+      "toFrame": 510
+    },
+    {
+      "text": "But if it breaks in production,",
+      "who": "jack",
+      "fromFrame": 516,
+      "toFrame": 549
+    },
+    {
+      "text": "who's responsible?",
+      "who": "jack",
+      "fromFrame": 549,
+      "toFrame": 581
+    },
+    {
+      "text": "You are, I am not the one who gets paged",
+      "who": "clawd",
+      "fromFrame": 587,
+      "toFrame": 643
+    },
+    {
+      "text": "at three in the morning.",
+      "who": "clawd",
+      "fromFrame": 643,
+      "toFrame": 682
+    },
+    {
+      "text": "Lucky being you.",
+      "who": "jack",
+      "fromFrame": 742,
+      "toFrame": 767
+    },
+    {
+      "text": "That's why you review every line I write.",
+      "who": "clawd",
+      "fromFrame": 772,
+      "toFrame": 856
+    },
+    {
+      "text": "Understand it, test it, own it.",
+      "who": "clawd",
+      "fromFrame": 856,
+      "toFrame": 926
+    },
+    {
+      "text": "So you're less a replacement,",
+      "who": "jack",
+      "fromFrame": 932,
+      "toFrame": 960
+    },
+    {
+      "text": "more a very fast collaborator.",
+      "who": "jack",
+      "fromFrame": 960,
+      "toFrame": 1005
+    },
+    {
+      "text": "A very fast collaborator who never steals your lunch.",
+      "who": "clawd",
+      "fromFrame": 1010,
+      "toFrame": 1095
+    },
+    {
+      "text": "Alright then, help me write these tests.",
+      "who": "jack",
+      "fromFrame": 1117,
+      "toFrame": 1172
+    },
+    {
+      "text": "Together, this time.",
+      "who": "clawd",
+      "fromFrame": 1180,
+      "toFrame": 1233
+    }
+  ],
+  "sfx": [
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 0,
+      "gainDb": -20,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 24,
+      "gainDb": -22,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 13,
+      "gainDb": -17,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 538,
+      "gainDb": -18,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 671,
+      "gainDb": -20,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pager.wav",
+      "frame": 691,
+      "gainDb": -18,
+      "durFrames": 41
+    },
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 273,
+      "gainDb": -20,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 293,
+      "gainDb": -15,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/fire.wav",
+      "frame": 293,
+      "gainDb": -17,
+      "durFrames": 40
+    },
+    {
+      "file": "audio/sfx/alarm.wav",
+      "frame": 300,
+      "gainDb": -25,
+      "durFrames": 33
+    },
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 329,
+      "gainDb": -20,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 728,
+      "gainDb": -20,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 925,
+      "gainDb": -21,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 1003,
+      "gainDb": -17,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 1093,
+      "gainDb": -14,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/pop.wav",
+      "frame": 1253,
+      "gainDb": -15,
+      "durFrames": 96
+    },
+    {
+      "file": "audio/sfx/whoosh.wav",
+      "frame": 1300,
+      "gainDb": -18,
+      "durFrames": 96
+    }
+  ],
+  "typing": [
+    [
+      0,
+      12
+    ],
+    [
+      1176,
+      1253
+    ]
+  ]
+}

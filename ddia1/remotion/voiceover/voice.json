@@ -1,0 +1,12 @@
+{
+  "provider": "ElevenLabs",
+  "voice_id": "JtMOaiQmPMpx0M8Mx7Hw",
+  "name": "DDIA Teacher (British male)",
+  "description": "Warm, kind British male teacher. Precise and clear, measured pace.",
+  "designed_with": "eleven_ttv_v3",
+  "tts_model": "eleven_v4",
+  "settings": "ElevenLabs defaults for eleven_v4 (no custom stability/similarity set)",
+  "library_url": "https://elevenlabs.io/app/voice-lab?voiceId=JtMOaiQmPMpx0M8Mx7Hw",
+  "pace_note": "Reads about 2.0 words/sec of speech; budget roughly 1.7s of screen time per 3 words when writing scenes.",
+  "created": "2026-10-23"
+}

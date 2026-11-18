@@ -1,0 +1,98 @@
+{
+  "1": {
+    "line": 1,
+    "who": "jack",
+    "text": "Clawd, my code review just came back. Three approvals and an \"Excellent work.\" Thing is, you wrote half of it.",
+    "file": "01.wav",
+    "duration": 5.99,
+    "heard": "Claude, my code review just came back. Three approvals and an excellent work. Thing is, you wrote half of it."
+  },
+  "2": {
+    "line": 2,
+    "who": "clawd",
+    "text": "And you wrote the other half. Plus all the bugs.",
+    "file": "02.wav",
+    "duration": 3.27,
+    "heard": "and you wrote the other half. Plus all the bugs."
+  },
+  "3": {
+    "line": 3,
+    "who": "jack",
+    "text": "Should I tell the team you helped me build it?",
+    "file": "03.wav",
+    "duration": 1.605,
+    "heard": "Should I tell the team you helped me build it?"
+  },
+  "4": {
+    "line": 4,
+    "who": "clawd",
+    "text": "Yes, being open builds trust, I can't take all the credit.",
+    "file": "04.wav",
+    "duration": 4.895,
+    "heard": "Yes, being open builds trust. I can't take all the credit."
+  },
+  "5": {
+    "line": 5,
+    "who": "jack",
+    "text": "But if it breaks in production, who's responsible?",
+    "file": "05.wav",
+    "duration": 2.585,
+    "heard": "But if it breaks in production, who's responsible?"
+  },
+  "6": {
+    "line": 6,
+    "who": "clawd",
+    "text": "You are, I am not the one who gets paged at three in the morning.",
+    "file": "06.wav",
+    "duration": 3.87,
+    "heard": "You are. I am not the one who gets paged at three in the morning."
+  },
+  "7": {
+    "line": 7,
+    "who": "jack",
+    "text": "Lucky being you.",
+    "file": "07.wav",
+    "duration": 0.915,
+    "heard": "Lucky being you."
+  },
+  "8": {
+    "line": 8,
+    "who": "clawd",
+    "text": "That's why you review every line I write. Understand it, test it, own it.",
+    "file": "08.wav",
+    "duration": 6.355,
+    "heard": "That's why you review every line I write. Understand it. Test it. Own it."
+  },
+  "9": {
+    "line": 9,
+    "who": "jack",
+    "text": "So you're less a replacement, more a very fast collaborator.",
+    "file": "09.wav",
+    "duration": 2.925,
+    "heard": "So you're less a replacement, more very fast collaborator."
+  },
+  "10": {
+    "line": 10,
+    "who": "clawd",
+    "text": "A very fast collaborator who never steals your lunch.",
+    "file": "10.wav",
+    "duration": 3.395,
+    "heard": "A very fast collaborator who never steals your lunch."
+  },
+  "11": {
+    "line": 11,
+    "who": "jack",
+    "text": "Alright then, help me write these tests.",
+    "file": "11.wav",
+    "duration": 2.14,
+    "heard": "Alright then. Help me write these tests."
+  },
+  "12": {
+    "line": 12,
+    "who": "clawd",
+    "text": "Together, this time.",
+    "file": "12.wav",
+    "duration": 2.055,
+    "heard": "Together, this time."
+  }
+}
